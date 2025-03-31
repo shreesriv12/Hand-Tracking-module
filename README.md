@@ -46,10 +46,6 @@ import numpy as np
 ```
 
 
-## Future Enhancements 🚀
-- Implement **gesture recognition** for control interactions.
-- Add **finger counting & tracking**.
-- Improve **performance optimizations** for mobile devices.
 
 ## Author
 👨‍💻 Developed by **[Shreeya Srivastava]**
